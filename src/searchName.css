@@ -1,0 +1,17 @@
+.inputText {
+    height: 40px;
+    width: 280px;
+    border: 2px solid #5e37bc;
+    border-top-left-radius: 8px;
+    border-bottom-left-radius: 8px;
+}
+
+.list {
+    width: 50%;
+    border-left: 6px solid #5e37bc;
+    background-color: #108696;
+    color: white;
+    list-style-type: circle;
+    padding: 11px 21px;
+    margin: 0 auto;
+}
